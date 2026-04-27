@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-demo/
+coverage/
+.next/
+*.tgz
+*.tsbuildinfo
+next-env.d.ts
+bs-calendar-idea.md
