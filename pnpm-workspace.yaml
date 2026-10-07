@@ -1,0 +1,8 @@
+# The root is the only package; examples consume it directly.
+packages:
+  - '.'
+
+# Allow only the native build tools used by the development examples.
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
